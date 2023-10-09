@@ -1,0 +1,5 @@
+E:\20201CST0182\Full_stack\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+E:\20201CST0182\Full_stack\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\20201CST0182\Full_stack\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+E:\20201CST0182\Full_stack\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+E:\20201CST0182\Full_stack\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache

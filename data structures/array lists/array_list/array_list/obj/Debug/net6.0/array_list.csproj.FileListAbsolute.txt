@@ -1,0 +1,15 @@
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\array_list.csproj.AssemblyReference.cache
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\array_list.GeneratedMSBuildEditorConfig.editorconfig
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\array_list.AssemblyInfoInputs.cache
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\array_list.AssemblyInfo.cs
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\array_list.csproj.CoreCompileInputs.cache
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\bin\Debug\net6.0\array_list.exe
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\bin\Debug\net6.0\array_list.deps.json
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\bin\Debug\net6.0\array_list.runtimeconfig.json
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\bin\Debug\net6.0\array_list.dll
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\bin\Debug\net6.0\array_list.pdb
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\array_list.dll
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\refint\array_list.dll
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\array_list.pdb
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\array_list.genruntimeconfig.cache
+E:\20201CST0182\Full_stack\data structures\array lists\array_list\array_list\obj\Debug\net6.0\ref\array_list.dll

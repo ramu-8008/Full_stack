@@ -1,0 +1,15 @@
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\bin\Debug\net6.0\Stacks.exe
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\bin\Debug\net6.0\Stacks.deps.json
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\bin\Debug\net6.0\Stacks.runtimeconfig.json
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\bin\Debug\net6.0\Stacks.dll
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\bin\Debug\net6.0\Stacks.pdb
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\Stacks.csproj.AssemblyReference.cache
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfoInputs.cache
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfo.cs
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\Stacks.csproj.CoreCompileInputs.cache
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\Stacks.dll
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\refint\Stacks.dll
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\Stacks.pdb
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\Stacks.genruntimeconfig.cache
+E:\20201CST0182\Full_stack\data structures\array lists\Stacks\Stacks\obj\Debug\net6.0\ref\Stacks.dll

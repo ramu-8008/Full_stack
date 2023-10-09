@@ -1,0 +1,15 @@
+E:\20201CST0182\Full_stack\file2\bin\Debug\net6.0\file2.exe
+E:\20201CST0182\Full_stack\file2\bin\Debug\net6.0\file2.deps.json
+E:\20201CST0182\Full_stack\file2\bin\Debug\net6.0\file2.runtimeconfig.json
+E:\20201CST0182\Full_stack\file2\bin\Debug\net6.0\file2.dll
+E:\20201CST0182\Full_stack\file2\bin\Debug\net6.0\file2.pdb
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\file2.csproj.AssemblyReference.cache
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\file2.GeneratedMSBuildEditorConfig.editorconfig
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\file2.AssemblyInfoInputs.cache
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\file2.AssemblyInfo.cs
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\file2.csproj.CoreCompileInputs.cache
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\file2.dll
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\refint\file2.dll
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\file2.pdb
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\file2.genruntimeconfig.cache
+E:\20201CST0182\Full_stack\file2\obj\Debug\net6.0\ref\file2.dll
