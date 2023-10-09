@@ -1,0 +1,15 @@
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\bin\Debug\net6.0\HashTable.exe
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\bin\Debug\net6.0\HashTable.deps.json
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\bin\Debug\net6.0\HashTable.runtimeconfig.json
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\bin\Debug\net6.0\HashTable.dll
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\bin\Debug\net6.0\HashTable.pdb
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\HashTable.csproj.AssemblyReference.cache
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\HashTable.AssemblyInfoInputs.cache
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\HashTable.AssemblyInfo.cs
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\HashTable.csproj.CoreCompileInputs.cache
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\HashTable.dll
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\refint\HashTable.dll
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\HashTable.pdb
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\HashTable.genruntimeconfig.cache
+E:\20201CST0182\Full_stack\data structures\array lists\HashTable\HashTable\obj\Debug\net6.0\ref\HashTable.dll

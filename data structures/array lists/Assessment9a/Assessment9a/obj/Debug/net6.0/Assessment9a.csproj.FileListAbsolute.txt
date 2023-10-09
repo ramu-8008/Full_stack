@@ -1,0 +1,15 @@
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\bin\Debug\net6.0\Assessment9a.exe
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\bin\Debug\net6.0\Assessment9a.deps.json
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\bin\Debug\net6.0\Assessment9a.runtimeconfig.json
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\bin\Debug\net6.0\Assessment9a.dll
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\bin\Debug\net6.0\Assessment9a.pdb
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\Assessment9a.csproj.AssemblyReference.cache
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\Assessment9a.GeneratedMSBuildEditorConfig.editorconfig
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\Assessment9a.AssemblyInfoInputs.cache
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\Assessment9a.AssemblyInfo.cs
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\Assessment9a.csproj.CoreCompileInputs.cache
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\Assessment9a.dll
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\refint\Assessment9a.dll
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\Assessment9a.pdb
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\Assessment9a.genruntimeconfig.cache
+E:\20201CST0182\Full_stack\data structures\array lists\Assessment9a\Assessment9a\obj\Debug\net6.0\ref\Assessment9a.dll

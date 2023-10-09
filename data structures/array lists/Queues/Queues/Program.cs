@@ -16,6 +16,8 @@ namespace Queues
             }
             qu.Dequeue();
             qu.Dequeue();
+            Console.WriteLine();
+            Console.WriteLine("after Dequeue: ");
             foreach(var item in qu)
             {
                 Console.WriteLine(item);
